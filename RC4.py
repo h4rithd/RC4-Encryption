@@ -1,5 +1,9 @@
+#!/usr/bin/python3
 import numpy as np
 
+## Coded by ShapManasick
+## Harith Dilshan
+## https://www.facebook.com/shap.manasick
 
 def KSA(key):
     key_length = len(key)
